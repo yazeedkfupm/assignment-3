@@ -19,7 +19,7 @@ It demonstrates:
 ## Running the Project Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yazeedkfupm/assignment-3.git
+   git clone https://github.com/yazeedkfupm/assignment-3.git
    cd assignment-3
    ```
 2. Open `index.html` in your browser (you can double-click it or use a simple HTTP server).
